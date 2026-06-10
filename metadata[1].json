@@ -1,0 +1,6 @@
+{
+  "name": "StrongtechRH",
+  "description": "Plateforme moderne de recrutement, de gestion des candidatures et de suivi RH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
